@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/deplymentDemocd/static/js/main.dabcd8bb.js",
-    "index.html": "/deplymentDemocd/index.html",
-    "main.dabcd8bb.js.map": "/deplymentDemocd/static/js/main.dabcd8bb.js.map"
+    "main.js": "/deplymentDemo/static/js/main.dabcd8bb.js",
+    "index.html": "/deplymentDemo/index.html",
+    "main.dabcd8bb.js.map": "/deplymentDemo/static/js/main.dabcd8bb.js.map"
   },
   "entrypoints": [
     "static/js/main.dabcd8bb.js"
